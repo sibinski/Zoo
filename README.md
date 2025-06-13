@@ -1,6 +1,5 @@
 # Zoo
 In my Zoo live a penguin, a tiger and a dolphin.
-This is a Final project in Module 1 in Java Course.
 
 At first I focused on inheriting the common properties and functionality of the abstract class. Here I created the two animal classes: Tiger and Dolphin. 
 
